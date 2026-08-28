@@ -1,4 +1,4 @@
-\# Cruzelabs
+# Cruzelabs
 
 
 
@@ -6,21 +6,21 @@ Cruzelabs is a personal dashboard designed to centralize AI tools, notes, and li
 
 
 
-\## Features
+## Features
 
 
 
-\- AI tools deck
+- AI tools deck
 
-\- Notepad
+- Notepad
 
-\- Drawing / whiteboard space
+- Drawing / whiteboard space
 
-\- Simple organized workspace
+- Simple organized workspace
 
 
 
-\## Purpose
+## Purpose
 
 
 
@@ -28,7 +28,7 @@ Built to reduce tool-switching friction and keep important utilities accessible 
 
 
 
-\## License
+## License
 
 
 
